@@ -11,7 +11,7 @@ export default function page() {
             <div>
                 <section className="success">
                     <Surprise />
-                    <Image src="/zaniki.jpg" alt="two animals holding hearts and smiling gif" width={570} height={300} className="yay-img" priority />
+                    <Image src="/zaniki.jpg" alt="wo animals holding hearts and smiling gif" width={570} height={300} className="yay-img" priority />
                     <p id="yay">💖 Улааааа!! 💖</p>
                 </section>
             </div>
